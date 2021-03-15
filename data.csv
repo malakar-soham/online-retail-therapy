@@ -1,0 +1,455 @@
+Respondent ,Gender ,Education ,Occupation ,Age ,Online shopping frequency ( self perception ),I prefer online shopping because it is time saving ,I prefer online shopping because it leads to less direct face to face interaction ,I prefer online shopping of convenience of delivery and online checking ,I prefer online shopping because availability of a variety of Goods ,I prefer online shopping because there is no hassle of parking ,I prefer online shopping because there is easy exchange or return of goods process available ,I prefer e shopping because there is customer help available easily ,I like the promotional effect of e shopping ,I like various interactive features on e commerce website  ,I prefer online shopping because of great after purchase care policy ,I prefer the online shopping because easy navigation of website and discovering new products easily ,I prefer online shopping because it is very cost effective  ,I prefer online shopping because I am easily able to compare prices ,"I prefer online shopping because it may take care of additional cost of software , house installations and other related costs of purchasing  such as transport",I prefer online shopping because of nominal delivery fees,I prefer online shopping because it makes me look cool and modern ,I prefer online shopping people give good feedback,I prefer online shopping because it gives me reason to bond with other people ,I prefer online shopping because it helps me quarantine during COVID ,I prefer online shopping because it helps me follow WHO Guideline to ,COVID has prompted me buy new stuff online ,Govt Guidelines during COVID has prompted online shopping  ,COVID has substantially increased my online frequency   ,"During COVID , my experience of online sopping has improved substantially ","During COVID , my online shopping expenditure has increased considerably ",I like buying online to feel happy ( online retail therapy)
+Customer 1 ,Female,Under Graduate,Student,19-29,Normally,4,4,5,5,3,4,4,5,4,3,5,5,5,3,4,2,4,1,4,4,5,4,5,4,4,
+Customer 2,Female,Under Graduate,Student,19-29,Normally,3,3,4,5,4,5,3,3,2,4,4,5,5,4,3,2,4,3,4,4,3,4,2,4,2,
+Customer 3,Male,Under Graduate,Student,19-29,Normally,5,3,5,4,4,3,3,4,4,3,4,4,5,4,4,4,2,1,4,4,5,4,4,4,5,
+Customer 4,Male,Under Graduate,Student,19-29,Regularly,5,4,2,5,4,5,5,4,4,2,5,4,5,4,4,5,4,2,5,4,5,5,5,5,4,
+Customer 5,Male,Under Graduate,Student,19-29,Very Often,4,5,4,3,5,5,4,5,3,3,4,3,5,4,3,2,3,1,5,3,2,3,4,3,4,
+Customer 6,Female,Under Graduate,Student,19-29,Normally,4,2,5,4,3,5,5,4,3,3,4,4,5,5,4,2,4,1,5,5,1,4,3,2,2,
+Customer 7,Male,Under Graduate,Student,19-29,Very Often,5,5,2,5,4,4,2,2,3,2,4,5,5,4,2,2,1,1,4,4,5,5,5,3,5,
+Customer 8,Female,High School,Student,19-29,Normally,5,3,5,5,4,4,4,4,3,5,5,4,5,4,4,1,5,1,5,4,4,3,3,3,1,
+Customer 9,Female,Under Graduate,Student,19-29,Normally,4,3,4,5,3,5,4,4,4,3,4,4,4,4,3,3,4,2,5,4,4,5,4,4,5,
+Customer 10,Male,Under Graduate,Student,19-29,Normally,4,3,4,5,3,4,5,5,4,5,5,4,5,5,4,1,4,1,3,3,4,5,4,5,4,
+Customer 11,Female,Under Graduate,Student,19-29,Normally,4,3,4,5,5,4,4,4,4,4,5,4,5,3,4,3,3,2,4,4,4,4,3,4,4,
+Customer 12,Male,High School,Student,19-29,Normally,4,3,3,4,2,5,3,3,4,3,2,3,5,3,3,1,1,1,3,3,4,3,4,3,4,
+Customer 13,Male,Under Graduate,Student,19-29,Normally,3,2,4,4,4,4,4,3,3,4,4,2,4,2,2,5,4,1,5,1,4,2,3,2,3,
+Customer 14,Male,Under Graduate,Student,19-29,Normally,4,4,4,4,4,5,3,4,5,2,4,2,5,5,2,2,2,1,4,4,5,4,4,4,4,
+Customer 15,Male,Under Graduate,Student,19-29,Normally,3,1,4,2,3,1,2,4,3,2,3,3,4,3,2,3,4,3,4,4,4,3,4,4,4,
+Customer 16,Male,Under Graduate,Student,19-29,Rarely,3,2,4,5,4,5,3,4,4,4,5,5,4,3,3,4,4,2,4,4,4,4,4,3,3,
+Customer 17,Male,High School,Student,19-29,Normally,4,3,3,4,2,5,3,3,4,3,2,3,5,3,3,1,1,1,3,3,4,3,4,3,4,
+Customer 18,Male,Under Graduate,Student,19-29,Regularly,5,2,5,5,2,5,4,5,3,4,4,4,5,3,4,2,3,2,4,3,3,4,4,4,4,
+Customer 19,Male,Under Graduate,Student,19-29,Normally,4,1,4,4,3,4,4,5,1,1,3,4,4,4,3,3,4,1,4,4,2,4,2,2,2,
+Customer 20,Female,Under Graduate,Student,19-29,Normally,5,2,5,5,5,5,4,5,5,3,5,4,5,3,3,3,4,4,5,1,5,5,5,4,5,
+Customer 21,Male,Under Graduate,Student,19-29,Normally,4,2,4,4,3,5,3,3,4,3,4,4,3,3,2,1,3,2,4,4,4,4,4,4,3,
+Customer 22,Male,Under Graduate,Student,19-29,Normally,3,2,4,4,3,4,4,3,4,3,4,2,4,4,4,3,4,2,3,2,4,4,4,4,4,
+Customer 23,Female,Under Graduate,Student,19-29,Regularly,4,4,5,5,5,3,4,3,3,3,4,4,5,3,4,2,3,1,5,3,4,3,4,3,3,
+Customer 24,Male,Under Graduate,Student,19-29,Normally,4,2,5,5,5,4,4,4,4,3,5,4,4,4,4,3,5,1,3,4,4,4,4,4,2,
+Customer 25,Female,Under Graduate,Student,19-29,Regularly,4,2,3,4,5,4,4,4,4,4,4,4,4,3,4,2,4,3,4,3,3,4,4,4,4,
+Customer 26,Male,High School,Student,19-29,Normally,4,1,4,4,5,4,3,4,4,3,4,4,5,3,3,1,4,1,4,2,5,5,4,4,4,
+Customer 27,Male,Under Graduate,Student,19-29,Normally,4,2,3,4,4,5,4,4,4,4,4,4,4,2,3,3,3,3,1,1,4,3,4,4,4,
+Customer 28,Female,High School,Student,19-29,Normally,4,1,4,4,5,4,3,4,4,3,4,4,5,3,2,1,4,1,5,3,4,5,4,4,4,
+Customer 29,Male,Under Graduate,Student,19-29,Normally,4,1,1,2,1,3,3,2,4,4,5,3,1,2,1,1,4,1,2,1,5,4,2,3,2,
+Customer 30,Female,Under Graduate,Student,19-29,Very Often,4,2,5,5,3,5,4,4,4,3,4,4,5,3,3,4,4,3,5,4,5,4,5,4,5,
+Customer 31,Male,Under Graduate,Student,19-29,Normally,5,3,4,5,4,3,3,4,4,4,5,3,5,4,4,2,3,4,4,3,3,4,5,4,4,
+Customer 32,Male,Under Graduate,Student,19-29,Very Often,5,5,5,5,1,3,5,5,5,3,5,5,5,3,5,1,5,1,5,5,5,5,5,1,5,
+Customer 33,Male,Under Graduate,Student,19-29,Normally,3,3,5,4,4,2,2,3,4,3,4,4,4,3,2,2,3,2,3,3,4,4,4,3,4,
+Customer 34,Male,Under Graduate,Student,19-29,Normally,5,4,5,5,5,1,3,3,4,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,
+Customer 35,Male,Under Graduate,Student,19-29,Regularly,5,4,4,3,4,4,3,4,3,4,4,4,5,4,3,1,3,1,4,1,4,4,4,4,5,
+Customer 36,Female,Under Graduate,Student,19-29,Normally,3,1,4,5,4,5,3,2,4,3,5,4,5,5,3,2,4,2,5,4,4,4,5,5,4,
+Customer 37,Male,Under Graduate,Student,19-29,Regularly,4,4,4,4,5,5,2,5,4,3,4,4,4,4,3,2,2,2,4,3,4,3,2,2,3,
+Customer 38,Female,Under Graduate,Student,19-29,Normally,4,2,5,5,2,5,3,2,2,3,4,5,4,4,2,3,4,1,2,2,3,2,3,2,2,
+Customer 39,Female,Under Graduate,Student,19-29,Normally,4,4,4,4,5,4,3,3,3,3,4,3,3,4,3,1,3,1,3,3,3,3,3,3,3,
+Customer 40,Female,Under Graduate,Student,19-29,Regularly,4,4,5,5,5,5,3,4,4,5,5,5,5,3,2,4,4,2,1,3,2,4,2,1,1,
+Customer 41,Male,Under Graduate,Student,19-29,Very Often,2,3,4,4,4,5,4,5,4,3,4,4,5,4,5,2,2,1,4,4,4,5,1,4,3,
+Customer 42,Male,Under Graduate,Student,19-29,Normally,4,3,5,5,3,3,4,3,5,4,5,4,4,4,4,1,4,5,5,4,4,4,4,4,4,
+Customer 43,Female,Under Graduate,Student,19-29,Normally,4,2,4,4,3,4,3,3,3,3,4,3,4,4,2,1,3,2,4,3,4,4,4,4,3,
+Customer 44,Male,Under Graduate,Student,19-29,Rarely,3,2,2,4,3,2,2,4,4,3,4,3,3,3,2,2,2,2,3,3,3,3,2,2,2,
+Customer 45,Male,High School,Student,19-29,Normally,3,1,4,4,1,5,3,3,3,3,4,4,4,1,2,1,1,1,1,1,1,3,1,1,1,
+Customer 46,Male,Under Graduate,Student,19-29,Regularly,4,1,5,5,3,5,5,5,4,3,4,5,5,2,4,2,4,1,5,5,5,5,5,4,5,
+Customer 47,Male,Under Graduate,Student,19-29,Very Often,3,2,3,1,2,4,2,3,4,4,4,1,2,3,3,4,3,2,3,4,5,5,1,1,3,
+Customer 48,Male,Under Graduate,Student,19-29,Normally,3,2,3,4,5,3,3,3,4,3,4,2,5,1,2,5,3,1,3,3,2,3,3,3,3,
+Customer 49,Male,Under Graduate,Student,19-29,Normally,4,5,5,5,2,4,2,1,4,2,4,5,5,5,5,4,4,1,4,4,3,3,4,4,4,2
+Customer 50,Female,Under Graduate,Student,19-29,Very Often,4,2,4,4,3,3,4,3,3,4,4,3,4,3,3,4,3,3,5,3,5,4,4,3,5,5
+Customer 51,Male,Under Graduate,Student,19-29,Rarely,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Customer 52,Female,Under Graduate,Student,19-29,Very Often,5,3,4,4,4,4,4,4,4,4,4,4,4,4,5,5,4,4,5,5,5,3,5,3,3,4
+Customer 53,Female,Under Graduate,Student,Less than 18,Normally,4,3,4,4,5,4,3,4,4,3,4,4,4,3,3,1,3,1,3,3,2,2,1,2,2,3
+Customer 54,Female,Under Graduate,Student,19-29,Rarely,3,3,3,4,4,3,3,3,3,3,4,3,4,4,3,3,4,3,5,3,4,3,5,5,4,4
+Customer 55,Male,Under Graduate,Student,19-29,Normally,4,4,4,4,5,3,4,4,3,3,3,4,4,3,2,2,3,2,4,2,3,4,4,3,4,4
+Customer 56,Female,Post Graduate,Housewife,40- 49,Extremely rare,4,4,4,4,4,2,2,3,2,2,4,4,4,2,3,1,3,5,4,3,3,3,3,3,3,2
+Customer 57,Female,Under Graduate,Student,19-29,Very Often,5,3,4,5,3,5,5,4,4,3,4,4,4,3,3,5,5,3,5,5,3,4,5,5,3,5
+Customer 58,Male,Post Graduate,Student,19-29,Normally,4,3,3,4,5,4,3,4,4,3,5,3,3,3,3,4,4,4,4,3,3,3,3,3,3,4
+Customer 59,Male,High School,Student,Less than 18,Rarely,2,4,3,4,4,5,3,3,4,5,4,3,5,2,3,4,1,2,5,5,4,4,4,3,3,4
+Customer 60,Male,Under Graduate,Student,19-29,Normally,4,3,5,5,2,5,4,4,5,5,5,4,5,4,5,1,5,1,5,4,5,5,2,4,3,2
+Customer 61,Female,Under Graduate,Student,19-29,Very Often,5,2,4,4,4,4,1,1,3,3,3,4,4,4,4,4,3,2,3,3,4,4,4,4,4,3
+Customer 62,Female,Under Graduate,Student,19-29,Normally,4,2,5,3,3,5,4,4,4,3,4,4,4,3,3,2,3,2,5,3,5,4,4,4,4,4
+Customer 63,Female,Under Graduate,Student,19-29,Normally,3,1,4,5,2,5,4,3,4,3,5,5,5,4,4,2,3,2,2,2,2,3,4,4,4,3
+Customer 64,Female,Under Graduate,Student,19-29,Normally,3,4,5,5,2,4,3,4,4,4,5,4,4,4,4,3,4,2,3,3,3,3,4,4,4,4
+Customer 65,Male,Under Graduate,Student,19-29,Rarely,3,2,4,4,4,3,2,4,2,2,4,2,5,3,4,1,1,1,1,1,4,2,1,3,2,1
+Customer 66,Female,Under Graduate,Student,19-29,Very Often,3,4,4,4,2,4,3,4,4,3,4,4,4,4,4,1,3,2,4,4,3,4,2,3,3,4
+Customer 67,Female,Under Graduate,Student,19-29,Normally,3,4,4,3,4,4,2,3,4,3,4,3,3,1,4,1,3,1,4,3,3,3,3,3,2,3
+Customer 68,Male,High School,Student,19-29,Regularly,5,4,3,4,3,5,5,3,5,5,5,5,5,5,5,4,3,5,5,5,5,5,5,4,5,3
+Customer 69,Female,PhD,Housewife,19-29,Regularly,5,4,4,5,5,4,5,3,3,4,4,3,4,4,4,4,3,3,4,4,4,4,4,3,4,5
+Customer 70,Female,Under Graduate,Student,19-29,Normally,4,2,5,4,2,4,3,3,4,3,5,4,4,4,3,2,3,1,4,4,2,2,4,4,3,4
+Customer 71,Male,Under Graduate,Student,19-29,Normally,4,2,3,4,3,4,2,3,4,3,4,4,5,4,2,1,4,1,4,2,5,5,4,4,4,1
+Customer 72,Male,Under Graduate,Student,19-29,Normally,5,3,5,5,3,5,4,3,3,4,4,5,5,3,4,3,3,3,3,3,3,3,4,3,3,3
+Customer 73,Female,Under Graduate,Professionally employed,19-29,Regularly,2,2,5,5,5,1,3,4,3,4,4,5,5,4,4,3,3,1,3,3,3,3,4,4,3,4
+Customer 74,Male,Under Graduate,Student,19-29,Regularly,5,4,5,4,4,4,4,4,4,4,3,4,4,4,4,2,4,4,4,2,3,3,4,4,4,4
+Customer 75,Male,Under Graduate,Student,19-29,Normally,5,3,3,5,5,5,3,3,4,3,4,4,5,3,3,3,4,3,4,4,3,4,3,3,3,4
+Customer 76,Male,Under Graduate,Student,19-29,Normally,4,3,4,5,4,4,4,4,4,3,5,3,5,4,4,3,4,3,4,4,3,3,3,3,4,3
+Customer 77,Female,Under Graduate,Student,19-29,Normally,4,4,2,4,2,5,3,4,3,3,4,4,4,4,3,1,4,2,3,3,2,3,4,4,4,3
+Customer 78,Male,Under Graduate,Student,19-29,Regularly,4,2,4,5,4,5,4,2,4,4,5,4,4,2,4,2,2,2,4,4,4,4,4,4,2,2
+Customer 79,Male,Under Graduate,Student,19-29,Rarely,4,4,4,3,2,4,2,4,3,4,4,3,5,3,3,2,3,2,3,4,3,4,3,3,2,2
+Customer 80,Male,Under Graduate,Student,19-29,Rarely,3,3,4,4,3,4,4,3,3,3,4,4,4,3,3,2,4,1,2,2,1,2,1,1,2,2
+Customer 81,Male,Under Graduate,Student,19-29,Very Often,5,4,1,1,2,3,4,4,5,5,5,3,4,4,3,4,4,4,4,2,2,2,4,5,5,4
+Customer 82,Male,High School,Student,19-29,Normally,4,1,4,4,2,4,3,4,4,3,4,3,4,3,2,2,3,2,4,4,3,3,3,4,2,3
+Customer 83,Male,Under Graduate,Student,19-29,Extremely rare,4,3,4,4,5,2,2,2,4,4,5,3,5,5,2,1,4,1,4,4,1,1,1,3,2,4
+Customer 84,Male,Under Graduate,Student,19-29,Normally,4,3,4,4,5,3,3,4,3,4,5,3,4,2,2,1,3,1,1,3,2,4,3,2,3,2
+Customer 85,Male,Under Graduate,Student,19-29,Normally,4,4,4,5,4,4,4,3,3,3,4,3,3,4,3,1,3,1,5,1,1,5,1,1,1,3
+Customer 86,Male,Under Graduate,Student,19-29,Normally,3,4,5,4,4,4,2,1,3,3,4,2,4,3,3,3,4,2,4,3,2,2,2,2,1,1
+Customer 87,Male,Under Graduate,Student,19-29,Regularly,4,5,3,2,4,5,4,2,4,2,2,1,4,2,2,4,3,1,5,5,5,5,5,5,5,1
+Customer 88,Female,Under Graduate,Student,19-29,Normally,5,2,4,4,2,3,3,2,2,2,3,2,2,2,3,2,2,3,3,2,2,2,2,2,1,4
+Customer 89,Male,High School,Student,19-29,Very Often,5,3,4,5,5,5,5,5,1,5,5,4,5,5,2,1,4,1,1,1,1,4,2,3,4,2
+Customer 90,Male,Under Graduate,Student,19-29,Normally,4,4,4,4,5,4,3,2,4,4,5,5,5,3,4,2,2,2,5,5,5,5,5,3,4,2
+Customer 91,Female,High School,Housewife,40- 49,Rarely,2,3,3,2,3,4,3,3,3,2,2,2,4,2,3,2,3,2,3,5,4,4,4,4,3,2
+Customer 92,Male,Under Graduate,Professionally employed,19-29,Very Often,5,4,5,5,4,1,5,3,4,5,4,5,5,4,4,5,3,1,4,2,2,2,4,3,2,1
+Customer 93,Male,Under Graduate,Student,19-29,Normally,4,3,4,5,3,5,5,4,3,3,3,4,5,3,2,1,3,1,3,3,2,1,3,2,2,1
+Customer 94,Male,Under Graduate,Student,19-29,Normally,4,4,3,2,4,3,3,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,3
+Customer 95,Male,Post Graduate,Others,50 and above,Regularly,3,4,4,5,4,4,3,3,3,4,5,4,5,4,4,4,4,3,3,4,4,4,3,3,3,3
+Customer 96,Male,Post Graduate,Others,50 and above,Regularly,4,4,3,1,3,4,4,4,3,5,5,3,4,3,4,5,4,4,4,4,3,4,3,4,4,3
+Customer 97,Male,Under Graduate,Student,19-29,Normally,3,4,4,5,3,1,2,3,4,2,4,3,4,2,1,1,3,4,4,4,2,2,3,4,4,2
+Customer 98,Male,Post Graduate,Professionally employed,19-29,Normally,4,1,3,3,2,2,2,3,3,3,5,4,5,3,3,1,1,1,3,3,2,5,2,3,1,2
+Customer 99,Female,Post Graduate,Housewife,30-39,Regularly,3,4,3,3,3,4,2,2,2,2,4,3,3,3,3,2,1,1,4,4,4,5,5,4,5,1
+Customer 100,Male,High School,Student,Less than 18,Normally,4,3,3,4,5,5,3,5,5,3,5,3,5,2,1,2,4,1,5,2,4,3,4,3,2,4
+Customer 101,Female,Under Graduate,Student,19-29,Very Often,2,2,4,4,2,5,4,3,4,4,4,3,4,4,3,1,2,2,4,4,5,5,5,5,5,5
+Customer 102,Female,Under Graduate,Professionally employed,30-39,Regularly,5,5,4,4,4,5,2,5,4,2,3,5,4,4,2,2,3,1,5,4,3,4,5,5,3,5
+Customer 103,Female,Option 5,Housewife,40- 49,Rarely,2,2,3,4,1,2,1,2,3,3,3,4,4,3,4,1,1,1,5,5,5,5,5,5,5,2
+Customer 104,Male,Under Graduate,Others,50 and above,Regularly,4,2,4,4,3,4,3,2,2,1,5,3,2,2,4,3,1,2,4,2,4,3,2,2,2,3
+Customer 105,Female,Post Graduate,Housewife,50 and above,Regularly,5,5,5,5,4,5,2,1,5,2,5,5,5,5,5,1,2,1,5,4,1,5,3,1,1,5
+Customer 106,Male,Under Graduate,Student,19-29,Regularly,4,4,4,4,4,5,3,3,4,3,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4
+Customer 107,Male,High School,Student,19-29,Rarely,4,3,3,5,5,5,4,4,4,3,4,4,4,4,3,1,3,2,3,3,4,4,5,4,4,1
+Customer 108,Male,High School,Student,Less than 18,Rarely,5,1,2,5,3,5,4,5,3,3,5,5,5,3,5,3,3,4,5,5,5,5,4,4,4,1
+Customer 109,Male,Under Graduate,Student,19-29,Rarely,4,4,4,4,3,3,3,4,4,4,4,4,5,4,4,2,4,2,4,4,5,5,5,3,3,1
+Customer 110,Female,Post Graduate,Professionally employed,30-39,Very Often,4,1,3,5,4,4,2,4,4,2,5,5,5,4,4,2,3,2,4,3,4,4,4,4,4,4
+Customer 111,Female,Under Graduate,Student,19-29,Normally,4,4,3,1,1,4,3,4,4,4,5,4,5,4,4,1,5,1,5,4,4,4,3,2,5,5
+Customer 112,Female,Post Graduate,Housewife,40- 49,Normally,4,1,4,5,3,3,2,3,4,1,5,4,5,4,4,2,3,2,4,4,4,4,4,4,2,4
+Customer 113,Male,Under Graduate,Business,50 and above,Rarely,4,4,4,4,5,5,3,1,4,2,4,4,5,4,2,1,1,2,1,2,2,4,4,5,2,4
+Customer 114,Female,Post Graduate,Professionally employed,19-29,Normally,4,1,4,2,2,3,2,3,4,2,4,3,4,3,2,1,2,1,1,2,4,4,4,3,4,2
+Customer 115,Female,Post Graduate,Professionally employed,40- 49,Very Often,5,5,4,4,5,4,4,4,4,4,4,5,4,4,4,3,4,4,5,5,5,5,5,5,5,4
+Customer 116,Female,High School,Student,Less than 18,Regularly,4,3,4,5,3,3,4,3,4,2,4,2,3,2,2,1,2,2,4,4,4,4,3,3,2,4
+Customer 117,Female,High School,Student,Less than 18,Regularly,4,3,4,5,3,3,4,3,4,2,4,2,3,2,2,1,2,2,4,4,4,4,3,3,2,4
+Customer 118,Female,Under Graduate,Student,19-29,Regularly,4,5,5,4,4,5,4,5,5,4,4,4,3,3,2,1,3,3,5,4,3,4,4,3,3,2
+Customer 119,Female,Post Graduate,Housewife,40- 49,Normally,3,3,4,4,4,3,3,3,3,4,5,3,4,4,3,1,3,2,4,3,4,5,4,3,3,2
+Customer 120,Female,Under Graduate,Professionally employed,30-39,Regularly,4,2,4,3,3,5,3,5,4,4,5,4,5,4,3,2,3,1,5,5,3,4,4,3,3,3
+Customer 121,Male,PhD,Professionally employed,50 and above,Very Often,5,2,4,2,3,5,5,2,2,5,5,5,3,3,3,5,1,5,5,5,5,5,5,5,5,5
+Customer 122,Male,Post Graduate,Professionally employed,50 and above,Normally,4,4,4,3,4,4,4,2,3,3,3,3,3,3,3,3,3,3,4,3,4,3,4,4,3,2
+Customer 123,Female,Post Graduate,Housewife,40- 49,Normally,4,4,5,3,5,5,4,3,3,5,2,4,4,3,5,3,5,2,5,3,5,3,4,3,4,1
+Customer 124,Female,High School,Housewife,30-39,Normally,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 125,Female,Under Graduate,Housewife,30-39,Normally,4,3,4,4,4,4,3,3,3,3,3,4,5,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 126,Male,Under Graduate,Student,19-29,Normally,3,2,3,5,5,1,3,4,3,3,3,5,5,5,4,2,3,3,4,4,1,5,3,4,2,1
+Customer 127,Female,Post Graduate,Student,19-29,Regularly,4,4,5,5,5,5,4,4,4,4,4,5,5,3,4,4,4,3,5,2,4,4,5,5,5,4
+Customer 128,Male,Under Graduate,Professionally employed,50 and above,Rarely,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 129,Female,Post Graduate,Housewife,19-29,Rarely,3,1,3,4,2,4,3,2,3,3,4,4,4,4,3,2,4,2,4,3,4,4,4,4,3,4
+Customer 130,Female,Option 5,Housewife,40- 49,Regularly,4,3,4,2,5,3,2,4,2,2,4,4,4,4,3,3,3,1,4,4,3,2,4,3,5,3
+Customer 131,Male,High School,Student,Less than 18,Rarely,4,2,4,3,1,3,3,4,4,2,4,3,3,2,3,2,4,2,2,1,4,4,2,2,3,3
+Customer 132,Male,Under Graduate,Student,19-29,Normally,4,3,5,5,2,4,4,4,4,4,4,5,4,3,3,3,3,3,2,3,3,3,3,3,3,3
+Customer 133,Female,High School,Student,Less than 18,Regularly,4,5,3,5,2,2,3,3,4,3,5,4,4,3,2,2,4,2,4,4,3,4,4,4,2,4
+Customer 134,Female,High School,Student,Less than 18,Regularly,4,5,3,5,2,2,3,3,4,3,5,4,4,3,2,2,4,2,4,4,3,4,4,4,2,4
+Customer 135,Female,Under Graduate,Housewife,40- 49,Very Often,3,2,2,3,3,2,2,3,4,2,4,3,4,3,4,2,3,2,4,4,4,4,4,4,4,3
+Customer 136,Male,Post Graduate,Student,19-29,Regularly,5,4,4,5,4,5,5,1,4,4,5,5,5,5,1,5,4,1,5,5,4,4,5,5,5,5
+Customer 137,Female,Under Graduate,Student,19-29,Rarely,3,2,3,4,3,5,4,4,4,4,3,4,4,3,2,2,3,3,3,4,4,3,3,1,1,3
+Customer 138,Male,Post Graduate,Professionally employed,40- 49,Normally,4,2,4,4,2,4,2,3,3,2,4,2,4,3,4,2,4,2,4,4,4,4,2,2,2,2
+Customer 139,Male,Under Graduate,Student,19-29,Regularly,3,3,2,1,1,1,1,1,3,1,3,2,2,1,1,1,1,1,1,1,2,1,2,1,2,1
+Customer 140,Male,Under Graduate,Student,19-29,Extremely rare,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 141,Female,Under Graduate,Student,19-29,Regularly,5,3,3,5,4,4,4,3,4,4,4,3,5,2,3,2,3,2,2,2,3,3,4,4,4,4
+Customer 142,Male,Under Graduate,Student,19-29,Regularly,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 143,Male,Under Graduate,Student,19-29,Normally,4,3,3,5,5,5,4,4,3,4,5,5,5,5,5,1,3,2,3,3,3,4,5,3,2,1
+Customer 144,Male,Under Graduate,Student,19-29,Normally,3,4,1,4,3,4,5,2,3,2,2,3,1,3,3,4,2,2,2,2,2,2,3,3,3,3
+Customer 145,Female,High School,Student,Less than 18,Normally,3,4,4,4,4,4,3,3,4,3,4,3,4,3,2,4,3,2,4,4,4,4,4,3,4,2
+Customer 146,Male,Under Graduate,Student,19-29,Regularly,5,4,5,5,3,3,4,4,5,5,5,4,5,5,5,3,3,3,4,3,4,4,4,3,4,3
+Customer 147,Male,High School,Professionally employed,19-29,Very Often,5,4,1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4
+Customer 148,Male,Post Graduate,Student,19-29,Normally,3,2,3,4,4,4,3,4,4,3,4,4,4,4,4,3,2,2,4,3,4,4,4,3,4,2
+Customer 149,Male,Post Graduate,Professionally employed,50 and above,Normally,5,3,4,5,2,4,3,4,4,2,4,3,5,4,4,4,3,2,3,3,2,4,2,4,2,2
+Customer 150,Male,High School,Student,19-29,Normally,3,3,4,5,4,4,4,4,4,4,4,4,3,3,3,3,4,3,3,3,3,3,3,4,4,4
+Customer 151,Male,Under Graduate,Student,19-29,Normally,3,4,3,4,4,5,4,4,3,4,3,3,3,3,3,3,4,2,5,4,4,4,4,4,3,3
+Customer 152,Male,Under Graduate,Student,19-29,Very Often,4,4,4,4,5,3,4,4,3,3,4,4,4,3,4,3,3,3,5,4,2,4,3,4,2,4
+Customer 153,Female,Option 5,Housewife,40- 49,Normally,4,3,3,4,5,5,4,4,4,4,4,3,4,4,4,3,3,2,5,4,4,4,4,4,3,4
+Customer 154,Female,High School,Student,Less than 18,Rarely,3,2,3,4,3,4,3,4,4,3,4,4,3,3,2,2,3,2,4,3,4,3,2,4,2,2
+Customer 155,Male,Under Graduate,Student,19-29,Very Often,5,1,5,5,3,5,4,4,4,4,5,4,5,4,4,2,2,2,3,3,4,4,4,5,3,3
+Customer 156,Male,Under Graduate,Student,19-29,Regularly,4,3,3,4,4,3,4,4,4,4,4,4,5,3,3,1,3,3,4,4,4,4,3,3,4,4
+Customer 157,Female,Under Graduate,Student,19-29,Normally,4,5,4,5,4,4,4,4,3,3,5,4,4,3,3,3,3,1,4,4,3,3,5,5,4,5
+Customer 158,Female,Post Graduate,Professionally employed,40- 49,Regularly,5,5,5,5,5,5,4,4,4,3,4,4,4,4,4,4,3,4,5,4,5,5,4,4,4,4
+Customer 159,Male,Under Graduate,Student,19-29,Normally,3,2,4,5,3,2,4,3,3,2,4,5,5,4,2,1,2,2,4,4,3,3,2,3,2,3
+Customer 160,Female,Post Graduate,Student,19-29,Regularly,5,5,5,5,3,1,5,4,1,1,1,3,4,4,4,3,4,1,5,4,4,4,4,5,5,5
+Customer 161,Male,Post Graduate,Professionally employed,50 and above,Rarely,3,5,4,3,5,5,3,4,3,5,3,3,4,4,4,1,2,1,4,3,3,2,4,3,4,1
+Customer 162,Female,Post Graduate,Student,19-29,Regularly,5,5,5,5,3,1,5,4,1,1,1,3,4,4,4,3,4,1,5,4,4,4,4,5,5,5
+Customer 163,Male,Under Graduate,Student,19-29,Normally,4,4,3,3,2,2,2,2,4,2,2,2,2,2,1,1,2,2,1,1,3,3,4,4,2,2
+Customer 164,Male,Under Graduate,Student,Less than 18,Regularly,5,3,5,4,5,5,4,3,4,3,4,1,5,1,3,1,4,1,3,3,4,4,5,5,5,3
+Customer 165,Female,PhD,Professionally employed,40- 49,Normally,2,1,4,5,3,4,3,2,3,2,4,3,4,3,2,1,2,2,2,4,3,3,4,3,3,2
+Customer 166,Male,PhD,Professionally employed,40- 49,Rarely,2,2,2,4,5,2,2,2,4,2,3,3,4,4,2,1,1,1,2,4,2,2,2,2,2,2
+Customer 167,Male,Under Graduate,Professionally employed,19-29,Very Often,5,1,1,1,3,4,3,3,2,3,5,1,1,2,3,1,1,5,4,4,3,3,4,4,1,4
+Customer 168,Male,Post Graduate,Professionally employed,50 and above,Regularly,4,1,4,4,4,4,4,4,3,4,4,3,4,3,3,2,3,2,4,4,2,2,2,3,2,2
+Customer 169,Female,Post Graduate,Professionally employed,40- 49,Very Often,5,2,4,4,1,5,4,4,4,4,4,4,4,4,2,2,4,2,4,4,2,2,3,3,4,4
+Customer 170,Male,Under Graduate,Student,19-29,Regularly,4,2,4,4,4,4,4,2,3,4,4,3,4,4,2,2,4,2,4,4,2,3,3,3,2,2
+Customer 171,Female,Post Graduate,Professionally employed,40- 49,Normally,4,3,4,5,5,4,4,3,5,4,5,4,4,3,4,4,2,2,2,2,4,3,4,4,4,3
+Customer 172,Female,Post Graduate,Housewife,50 and above,Regularly,5,2,5,5,5,4,4,2,4,4,5,4,4,2,3,4,4,2,4,2,4,3,3,3,3,3
+Customer 173,Male,Under Graduate,Student,19-29,Normally,3,2,3,4,2,4,2,3,3,4,2,4,4,4,4,1,2,1,4,3,2,3,3,3,3,1
+Customer 174,Male,Post Graduate,Professionally employed,50 and above,Normally,3,4,4,4,2,3,3,3,4,3,4,3,5,3,3,2,4,1,5,3,4,4,4,4,3,4
+Customer 175,Male,PhD,Business,19-29,Very Often,4,2,3,5,3,4,2,3,3,2,4,3,5,3,4,1,3,1,5,3,4,4,5,5,5,1
+Customer 176,Female,Post Graduate,Professionally employed,30-39,Very Often,5,3,4,2,5,4,3,3,4,2,4,4,5,4,2,2,3,1,5,5,5,4,4,1,4,2
+Customer 177,Female,Post Graduate,Professionally employed,40- 49,Very Often,4,3,4,4,2,4,4,3,4,4,4,4,4,4,3,2,2,2,5,1,4,4,4,4,4,4
+Customer 178,Male,Under Graduate,Student,19-29,Normally,3,4,4,5,2,4,3,4,4,4,5,5,5,3,2,1,4,2,4,4,4,5,4,2,4,2
+Customer 179,Male,Under Graduate,Student,19-29,Normally,5,4,5,5,3,3,3,5,5,4,4,4,5,3,3,1,4,2,5,4,4,3,4,4,3,4
+Customer 180,Female,Under Graduate,Student,19-29,Normally,4,3,5,4,2,4,3,2,3,3,4,4,4,4,2,3,4,2,5,4,4,5,2,4,2,3
+Customer 181,Female,High School,Student,Less than 18,Normally,4,4,4,5,4,1,4,4,3,3,4,3,4,4,3,2,3,1,3,3,1,4,3,3,4,4
+Customer 182,Male,Under Graduate,Student,19-29,Regularly,5,1,5,5,5,5,5,5,5,5,5,5,5,5,4,1,3,3,5,5,5,5,5,5,5,5
+Customer 183,Male,Option 5,Professionally employed,50 and above,Regularly,4,3,5,4,5,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,3,3,4,3,4,2
+Customer 184,Female,Under Graduate,Student,19-29,Rarely,5,5,4,5,5,3,3,3,4,2,4,4,5,2,4,3,4,1,5,3,5,5,5,5,5,4
+Customer 185,Male,Under Graduate,Professionally employed,30-39,Regularly,5,2,3,3,2,4,3,3,3,3,3,4,4,4,4,1,3,4,4,1,4,2,2,4,4,2
+Customer 186,Male,Under Graduate,Student,19-29,Normally,4,2,3,4,1,4,3,4,4,4,5,5,5,4,4,3,1,1,3,2,1,4,4,1,2,1
+Customer 187,Male,Under Graduate,Student,19-29,Normally,3,3,5,5,5,3,3,1,4,3,5,3,4,4,4,1,3,1,5,3,2,2,2,2,2,2
+Customer 188,Female,Post Graduate,Professionally employed,40- 49,Regularly,5,5,5,5,5,5,4,4,4,3,4,4,4,4,4,4,3,4,5,4,5,5,4,4,4,4
+Customer 189,Male,Under Graduate,Student,19-29,Regularly,4,3,3,4,4,3,4,4,4,4,4,4,5,3,3,1,3,3,4,4,4,4,3,3,4,4
+Customer 190,Female,Post Graduate,Professionally employed,19-29,Normally,5,3,5,4,3,5,4,3,4,4,4,4,4,3,4,4,4,2,4,4,4,3,5,4,4,4
+Customer 191,Male,Under Graduate,Student,19-29,Regularly,4,4,5,5,4,5,3,2,4,3,5,5,5,3,4,3,4,2,5,3,5,5,4,4,3,3
+Customer 192,Male,Option 5,Professionally employed,50 and above,Regularly,4,3,5,4,5,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,3,3,4,3,4,2
+Customer 193,Male,Under Graduate,Student,19-29,Normally,3,3,4,3,4,4,4,2,4,4,4,3,3,3,3,4,3,2,3,3,4,4,4,4,4,4
+Customer 194,Female,Under Graduate,Housewife,50 and above,Rarely,4,2,4,5,2,4,4,2,4,4,3,4,5,4,4,3,4,2,4,4,4,4,3,4,4,2
+Customer 195,Male,Post Graduate,Business,30-39,Regularly,4,3,5,5,4,4,4,3,4,4,4,3,3,4,5,3,3,2,3,3,4,4,2,2,3,1
+Customer 196,Male,Under Graduate,Business,50 and above,Rarely,4,4,4,2,3,4,4,3,4,4,4,3,4,3,3,2,4,2,5,5,3,4,3,4,4,3
+Customer 197,Male,Under Graduate,Others,19-29,Normally,4,3,5,5,2,5,5,4,5,4,5,5,5,4,5,4,2,4,3,4,4,5,4,4,4,4
+Customer 198,Female,High School,Student,Less than 18,Regularly,4,4,4,5,3,4,4,3,5,4,4,3,4,3,4,4,3,3,4,4,4,4,5,4,4,4
+Customer 199,Male,Under Graduate,Professionally employed,50 and above,Normally,4,1,4,4,4,3,2,4,4,1,5,1,4,3,2,1,3,1,4,5,4,3,4,4,4,1
+Customer 200,Female,Under Graduate,Housewife,40- 49,Rarely,2,5,4,5,2,5,4,2,2,2,4,5,5,2,4,4,2,1,4,2,2,4,2,2,2,1
+Customer 201,Male,Post Graduate,Student,30-39,Regularly,5,1,5,5,5,5,3,3,4,3,4,4,4,1,4,2,4,1,3,4,3,3,3,3,3,3
+Customer 202,Male,Under Graduate,Professionally employed,19-29,Regularly,5,3,3,5,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4
+Customer 203,Female,Post Graduate,Professionally employed,19-29,Normally,3,2,3,4,4,4,3,4,4,4,4,5,5,3,2,3,4,3,4,4,4,3,3,3,3,3
+Customer 204,Female,High School,Student,Less than 18,Normally,4,3,4,5,4,5,4,3,4,4,4,4,4,4,4,3,3,3,5,4,3,3,3,4,4,3
+Customer 205,Female,Under Graduate,Housewife,40- 49,Rarely,3,4,3,4,2,4,3,3,4,3,3,4,4,2,2,2,3,2,4,4,4,4,3,4,3,2
+Customer 206,Female,Option 5,Others,50 and above,Normally,2,1,3,4,4,2,3,1,1,1,1,4,5,4,4,1,3,2,5,5,5,4,5,5,4,1
+Customer 207,Male,Under Graduate,Student,19-29,Regularly,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Customer 208,Female,Under Graduate,Student,19-29,Regularly,5,3,2,5,3,4,4,4,4,4,5,5,5,3,3,2,3,1,5,5,5,4,5,5,4,5
+Customer 209,Female,Under Graduate,Professionally employed,19-29,Very Often,5,3,4,4,4,3,4,4,4,4,5,1,5,4,4,2,2,2,4,4,3,3,3,3,2,4
+Customer 210,Female,Under Graduate,Student,19-29,Very Often,5,2,3,1,4,2,4,5,4,4,5,1,4,1,3,4,2,4,4,4,5,5,5,4,3,5
+Customer 211,Female,Under Graduate,Student,19-29,Normally,5,3,4,5,5,3,2,3,5,2,5,3,5,4,3,2,3,3,5,5,4,5,5,5,5,5
+Customer 212,Female,Under Graduate,Student,19-29,Very Often,5,4,5,5,4,5,5,4,4,5,5,5,4,5,4,4,4,1,5,3,5,4,5,5,5,3
+Customer 213,Male,Post Graduate,Business,19-29,Very Often,5,1,4,5,2,5,4,3,4,4,5,4,3,3,4,2,3,2,2,3,2,3,4,4,5,1
+Customer 214,Male,Post Graduate,Others,19-29,Regularly,2,2,5,1,2,4,2,2,1,3,4,1,2,3,3,3,2,2,1,5,5,5,1,3,4,1
+Customer 215,Male,Post Graduate,Professionally employed,50 and above,Regularly,5,4,5,5,5,2,3,4,4,3,5,1,1,4,4,3,4,3,5,4,4,4,5,4,4,4
+Customer 216,Female,Under Graduate,Student,19-29,Regularly,5,3,2,5,3,4,4,4,4,4,5,5,5,3,3,2,3,1,5,5,5,4,5,5,4,5
+Customer 217,Male,Under Graduate,Student,19-29,Normally,4,2,1,5,4,4,5,4,4,3,5,4,5,4,4,2,3,3,4,4,4,5,4,4,4,4
+Customer 218,Male,Under Graduate,Student,19-29,Very Often,2,1,3,3,4,5,2,4,4,4,4,4,4,3,4,4,4,4,4,4,5,1,5,4,4,2
+Customer 219,Female,High School,Student,Less than 18,Regularly,3,3,4,5,4,2,4,1,3,2,3,3,4,5,5,2,3,3,3,2,1,2,5,5,5,4
+Customer 220,Female,High School,Student,Less than 18,Regularly,3,3,4,5,4,2,4,1,3,2,3,3,4,5,5,2,3,3,3,2,1,2,5,5,5,4
+Customer 221,Female,Option 5,Business,30-39,Regularly,5,3,4,5,5,2,5,4,1,3,3,5,3,5,5,1,5,5,5,5,5,5,5,5,5,5
+Customer 222,Male,Under Graduate,Student,19-29,Very Often,5,1,1,1,3,2,3,3,3,2,3,3,2,3,2,4,2,3,3,5,5,3,3,3,3,3
+Customer 223,Female,Option 5,Housewife,30-39,Very Often,3,3,3,3,3,3,5,5,1,3,4,1,2,1,1,5,2,2,1,5,5,5,2,2,2,1
+Customer 224,Male,Under Graduate,Student,19-29,Normally,5,5,4,4,3,3,4,4,4,3,3,3,3,3,3,3,3,3,3,3,5,3,4,4,5,3
+Customer 225,Male,High School,Student,19-29,Normally,3,2,3,4,4,4,2,3,4,4,4,4,5,4,3,4,3,2,5,4,4,2,2,3,2,3
+Customer 226,Female,Under Graduate,Student,19-29,Very Often,3,2,4,4,3,4,3,3,3,3,4,4,4,3,3,3,3,3,4,3,4,4,4,4,4,4
+Customer 227,Male,Under Graduate,Student,19-29,Normally,3,3,4,5,2,3,3,4,4,3,5,5,5,3,3,2,4,2,4,4,4,4,5,5,5,3
+Customer 228,Male,Post Graduate,Professionally employed,40- 49,Extremely rare,2,3,3,2,4,4,3,3,4,4,3,2,3,4,2,3,3,2,4,4,4,4,4,3,2,3
+Customer 229,Male,Under Graduate,Student,19-29,Normally,4,2,4,4,3,3,3,4,4,3,3,4,4,4,3,1,3,3,3,3,3,3,3,3,4,1
+Customer 230,Male,Under Graduate,Student,19-29,Normally,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,2,4,2,2,2,2,2,2,4
+Customer 231,Male,Under Graduate,Student,19-29,Regularly,5,5,4,4,4,4,3,3,4,4,4,3,4,2,2,3,3,2,3,3,4,3,3,3,4,1
+Customer 232,Male,Under Graduate,Student,19-29,Normally,5,2,4,4,4,5,4,4,4,4,4,4,5,3,4,2,4,2,5,5,5,5,5,5,5,4
+Customer 233,Female,Under Graduate,Student,19-29,Very Often,5,1,3,5,3,5,4,4,4,4,4,5,5,3,5,2,3,2,5,4,3,4,5,4,3,4
+Customer 234,Female,Under Graduate,Student,Less than 18,Regularly,4,4,4,3,4,5,3,4,4,4,4,3,4,4,4,4,3,4,4,5,4,4,4,4,4,5
+Customer 235,Female,Post Graduate,Student,19-29,Rarely,2,3,3,4,1,5,4,1,2,4,4,4,5,3,2,1,5,2,2,4,4,4,4,4,4,5
+Customer 236,Male,Under Graduate,Student,19-29,Regularly,5,1,4,4,1,5,3,4,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 237,Female,Under Graduate,Student,19-29,Normally,4,4,5,5,5,4,3,3,4,3,4,4,5,3,4,1,4,1,3,3,3,2,3,2,2,2
+Customer 238,Female,Under Graduate,Student,19-29,Normally,2,4,3,3,5,3,4,3,4,4,4,4,4,3,3,1,3,2,5,3,4,4,4,2,4,3
+Customer 239,Female,Option 5,Housewife,30-39,Very Often,3,3,3,3,3,3,5,5,1,3,4,1,2,1,1,5,2,2,1,5,5,5,2,2,2,1
+Customer 240,Male,Under Graduate,Student,19-29,Very Often,4,1,5,5,3,5,5,2,4,3,3,5,5,5,5,1,3,1,5,5,4,4,2,2,2,3
+Customer 241,Male,Under Graduate,Student,19-29,Regularly,5,4,5,5,3,3,3,5,3,3,3,5,4,3,2,2,2,2,2,4,2,2,2,2,2,4
+Customer 242,Female,Under Graduate,Professionally employed,19-29,Very Often,5,4,4,4,5,5,4,4,4,4,5,4,5,4,3,2,4,2,4,4,4,4,3,3,3,4
+Customer 243,Male,Under Graduate,Student,19-29,Very Often,3,3,4,4,3,3,3,4,4,3,4,3,3,3,3,2,4,2,3,4,4,3,5,3,3,3
+Customer 244,Male,Post Graduate,Professionally employed,19-29,Rarely,2,3,3,3,3,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,5,4,4,3
+Customer 245,Female,Under Graduate,Student,19-29,Normally,3,1,3,3,1,1,2,1,3,2,2,1,4,3,3,3,3,2,4,3,4,4,4,4,4,4
+Customer 246,Male,Post Graduate,Student,30-39,Regularly,5,1,5,5,5,5,3,3,4,3,4,4,4,1,4,2,4,1,3,4,3,3,3,3,3,3
+Customer 247,Female,Post Graduate,Professionally employed,30-39,Normally,4,4,5,4,3,5,3,4,4,3,4,4,4,3,2,2,4,2,4,2,4,4,5,4,4,4
+Customer 248,Male,Post Graduate,Others,50 and above,Extremely rare,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 249,Female,Post Graduate,Professionally employed,50 and above,Rarely,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,2,4,1,2
+Customer 250,Male,Under Graduate,Student,19-29,Rarely,3,1,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,3
+Customer 251,Female,Under Graduate,Student,19-29,Normally,4,4,5,5,5,1,4,3,1,3,5,5,4,4,3,3,2,1,3,2,1,4,4,4,2,5
+Customer 252,Male,Under Graduate,Student,19-29,Normally,2,5,3,4,1,4,3,3,3,4,1,4,3,3,4,1,4,4,2,3,2,1,3,2,4,3
+Customer 253,Male,Under Graduate,Professionally employed,19-29,Rarely,4,4,4,1,4,5,4,2,4,4,5,5,5,4,4,2,3,3,4,3,4,4,3,3,3,4
+Customer 254,Male,Option 5,Professionally employed,50 and above,Normally,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Customer 255,Female,Under Graduate,Student,19-29,Very Often,5,2,3,5,3,4,5,3,4,3,4,3,4,3,3,2,3,1,3,2,1,4,2,2,2,5
+Customer 256,Male,Under Graduate,Professionally employed,19-29,Normally,3,2,1,3,1,3,2,4,3,3,1,3,3,2,1,5,2,2,5,4,5,4,5,4,3,4
+Customer 257,Female,High School,Housewife,30-39,Normally,2,1,4,5,2,5,2,2,2,3,4,4,4,2,3,2,2,1,4,4,2,3,2,2,1,1
+Customer 258,Female,Under Graduate,Student,19-29,Normally,4,2,5,5,4,4,2,3,4,4,5,5,5,4,2,3,4,3,5,3,5,4,5,4,4,2
+Customer 259,Male,Under Graduate,Student,19-29,Normally,2,1,2,4,4,2,3,4,4,2,4,4,4,4,4,1,2,1,1,1,1,1,1,1,1,2
+Customer 260,Female,Post Graduate,Student,19-29,Normally,3,3,4,4,4,4,3,3,4,3,4,4,4,4,4,2,3,2,3,3,4,3,4,4,4,4
+Customer 261,Female,Under Graduate,Student,19-29,Very Often,4,2,4,5,3,4,3,4,5,4,4,3,4,2,2,1,3,1,3,4,2,3,4,4,4,4
+Customer 262,Female,Post Graduate,Professionally employed,19-29,Normally,4,2,4,5,2,2,3,4,4,3,4,5,4,4,2,2,3,2,4,3,4,4,2,4,2,2
+Customer 263,Female,Under Graduate,Student,19-29,Normally,3,4,4,4,3,4,3,4,3,3,4,4,4,4,3,2,2,2,4,3,4,4,4,4,4,5
+Customer 264,Female,Under Graduate,Student,19-29,Normally,4,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 265,Female,High School,Student,19-29,Very Often,2,4,3,3,3,3,3,3,4,2,4,4,4,2,3,3,3,3,3,3,4,2,2,2,2,3
+Customer 266,Male,Under Graduate,Business,40- 49,Very Often,5,5,5,5,4,3,4,3,4,3,4,3,4,4,2,3,3,3,4,4,3,3,4,4,3,3
+Customer 267,Male,Under Graduate,Student,19-29,Normally,3,1,5,5,2,1,3,5,4,2,4,4,4,4,4,4,3,1,4,2,1,2,4,4,4,4
+Customer 268,Male,Post Graduate,Business,30-39,Normally,5,2,4,3,2,4,4,3,3,3,3,4,4,4,4,2,2,2,4,4,3,4,3,4,3,2
+Customer 269,Male,Under Graduate,Student,19-29,Regularly,4,2,5,4,3,4,4,3,4,4,5,5,5,2,2,1,2,2,4,2,4,1,4,5,4,2
+Customer 270,Female,Under Graduate,Student,19-29,Normally,5,1,1,3,5,3,3,3,5,3,4,3,5,4,4,1,2,1,4,3,1,4,5,5,5,5
+Customer 271,Female,Post Graduate,Housewife,40- 49,Extremely rare,2,4,4,5,5,5,4,4,3,3,4,4,4,3,4,2,4,2,3,3,3,4,4,3,4,3
+Customer 272,Male,Under Graduate,Student,Less than 18,Rarely,3,4,4,4,3,3,4,3,4,4,4,3,5,3,4,4,3,2,4,4,4,4,4,4,4,3
+Customer 273,Male,Under Graduate,Student,19-29,Very Often,5,3,5,5,1,5,4,4,3,3,5,3,5,3,1,2,3,1,1,1,3,2,4,3,4,3
+Customer 274,Female,High School,Housewife,30-39,Normally,5,2,5,5,1,5,4,4,5,3,5,3,5,2,3,2,2,2,2,2,4,3,4,4,4,4
+Customer 275,Female,Post Graduate,Student,19-29,Regularly,4,4,3,4,4,3,4,4,2,3,4,3,4,3,2,4,3,4,4,3,2,3,3,4,4,4
+Customer 276,Male,Under Graduate,Student,19-29,Very Often,5,1,5,5,3,5,4,4,4,4,5,4,5,4,4,2,2,2,3,3,4,4,4,5,3,3
+Customer 277,Female,Post Graduate,Professionally employed,30-39,Normally,5,3,3,3,5,3,3,5,3,4,3,3,5,2,3,3,5,3,2,4,5,2,4,2,3,3
+Customer 278,Male,Post Graduate,Professionally employed,50 and above,Normally,4,3,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,3,4,2,2,2,2,4
+Customer 279,Male,Under Graduate,Student,19-29,Regularly,5,3,5,5,4,5,3,4,4,2,5,4,5,5,3,2,5,2,4,4,3,3,4,4,4,4
+Customer 280,Male,Under Graduate,Student,19-29,Regularly,4,3,4,5,3,5,5,2,4,4,5,2,3,2,2,2,4,2,3,2,5,4,3,4,5,3
+Customer 281,Male,Under Graduate,Student,19-29,Regularly,4,1,5,4,3,4,4,5,4,4,4,3,5,4,4,3,4,2,4,4,4,4,4,3,4,4
+Customer 282,Female,Post Graduate,Others,40- 49,Normally,3,2,2,4,5,4,4,3,3,3,4,4,4,3,5,2,4,4,4,4,4,4,4,4,4,4
+Customer 283,Male,Under Graduate,Student,19-29,Normally,4,4,4,5,4,5,3,3,4,4,5,5,5,3,4,4,3,2,2,2,3,3,4,3,4,4
+Customer 284,Male,Under Graduate,Student,19-29,Regularly,4,1,4,5,4,3,3,4,4,4,4,4,5,3,4,3,4,3,4,3,2,4,2,3,3,2
+Customer 285,Female,Post Graduate,Professionally employed,40- 49,Very Often,5,2,4,4,3,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,4,4,4,4,4,4
+Customer 286,Female,Option 5,Housewife,50 and above,Normally,4,2,4,4,3,4,3,3,3,3,3,4,3,3,3,3,4,2,4,2,4,4,4,4,4,3
+Customer 287,Female,Under Graduate,Student,19-29,Normally,4,4,4,4,5,4,2,4,4,3,4,4,5,4,4,2,4,2,4,4,4,5,4,4,5,4
+Customer 288,Female,Post Graduate,Housewife,40- 49,Regularly,3,2,4,3,4,4,3,3,4,2,4,3,4,4,2,3,4,2,4,3,3,4,4,3,4,3
+Customer 289,Female,Post Graduate,Professionally employed,30-39,Regularly,5,4,4,4,4,5,4,3,3,3,3,3,4,4,3,2,3,2,5,4,3,3,4,4,4,3
+Customer 290,Male,Post Graduate,Professionally employed,40- 49,Normally,2,2,4,4,2,3,2,4,4,3,4,5,5,4,4,2,4,3,3,3,4,4,4,4,4,3
+Customer 291,Female,High School,Student,19-29,Normally,4,3,4,5,3,5,5,3,4,4,3,3,3,2,4,2,4,3,3,2,2,3,4,2,4,2
+Customer 292,Female,Under Graduate,Housewife,40- 49,Regularly,2,1,4,5,4,3,3,4,3,3,5,4,5,3,3,1,1,3,4,3,5,5,5,4,3,4
+Customer 293,Female,Post Graduate,Housewife,30-39,Very Often,5,4,5,4,3,5,4,4,4,3,4,4,4,3,5,4,5,2,4,2,4,5,4,5,4,4
+Customer 294,Female,Post Graduate,Housewife,40- 49,Normally,4,3,4,4,5,5,3,4,4,4,3,4,4,4,2,2,3,2,5,4,4,4,3,4,3,3
+Customer 295,Female,Under Graduate,Professionally employed,19-29,Normally,4,2,4,4,5,4,4,5,5,3,4,4,3,3,3,3,4,3,5,4,3,3,5,4,4,2
+Customer 296,Male,Under Graduate,Student,19-29,Normally,3,1,4,5,1,4,1,1,1,4,5,3,5,1,1,1,5,1,3,3,3,4,3,3,3,1
+Customer 297,Male,Under Graduate,Student,19-29,Regularly,4,3,4,5,4,5,4,4,3,3,4,1,5,4,2,2,3,2,2,3,2,4,2,4,2,3
+Customer 298,Female,Under Graduate,Professionally employed,19-29,Regularly,3,4,4,5,2,4,4,3,4,2,5,5,5,3,4,5,3,4,4,4,5,5,5,5,5,5
+Customer 299,Male,Under Graduate,Student,19-29,Regularly,4,3,4,5,3,4,4,3,2,2,3,4,5,3,2,1,3,1,2,2,5,5,4,4,4,1
+Customer 300,Female,Under Graduate,Housewife,19-29,Normally,4,3,4,5,5,2,4,4,4,3,5,4,5,3,4,2,4,2,5,3,4,4,4,4,3,5
+Customer 301,Male,Post Graduate,Student,19-29,Very Often,4,1,4,4,2,5,2,2,3,3,5,2,3,2,5,1,2,1,5,3,2,2,5,3,4,2
+Customer 302,Female,Under Graduate,Student,19-29,Regularly,5,3,3,4,4,4,3,5,4,4,3,3,3,3,3,2,3,3,4,3,4,4,3,3,3,3
+Customer 303,Female,High School,Student,Less than 18,Normally,3,3,4,4,3,2,3,3,3,3,4,3,4,4,3,2,3,2,4,4,3,4,4,4,4,3
+Customer 304,Male,Under Graduate,Professionally employed,30-39,Normally,4,3,4,5,4,4,2,1,4,4,4,4,2,2,3,4,2,1,2,1,4,2,5,5,5,3
+Customer 305,Female,Under Graduate,Housewife,30-39,Regularly,4,3,4,4,3,3,4,4,4,3,3,3,4,4,4,2,4,2,4,4,4,4,4,4,4,4
+Customer 306,Male,PhD,Professionally employed,50 and above,Regularly,5,5,5,5,4,5,5,5,4,4,5,1,5,5,5,4,5,4,5,4,5,5,5,5,4,5
+Customer 307,Female,Post Graduate,Professionally employed,19-29,Regularly,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,5,5,5,5,5,5,5,5
+Customer 308,Male,Option 5,Student,Less than 18,Rarely,3,4,3,4,1,3,4,2,2,2,4,3,4,2,4,4,2,1,4,3,4,5,1,2,1,4
+Customer 309,Male,Post Graduate,Professionally employed,50 and above,Normally,5,5,5,5,5,5,3,3,1,3,5,5,5,5,5,1,3,1,5,5,5,5,5,5,5,1
+Customer 310,Female,Post Graduate,Business,40- 49,Normally,5,4,4,4,5,4,4,3,3,4,4,3,4,4,4,4,4,4,5,4,4,4,3,4,4,3
+Customer 311,Female,Under Graduate,Student,19-29,Normally,4,2,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,3,5,4,4,4,5,5,4,4
+Customer 312,Female,Post Graduate,Housewife,40- 49,Rarely,5,5,5,5,3,1,1,1,1,3,5,5,5,3,1,1,1,1,5,5,5,5,5,3,5,1
+Customer 313,Male,Post Graduate,Professionally employed,50 and above,Normally,3,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Customer 314,Female,Under Graduate,Professionally employed,19-29,Very Often,4,3,4,4,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,3,3,4,3,4,4,5
+Customer 315,Female,High School,Student,Less than 18,Regularly,5,4,5,5,4,4,4,3,3,4,4,4,4,4,4,3,3,3,4,4,3,4,5,4,4,5
+Customer 316,Female,Under Graduate,Student,19-29,Rarely,3,2,4,4,3,4,3,3,3,3,4,3,4,4,2,3,3,2,4,4,4,4,4,3,2,1
+Customer 317,Male,Post Graduate,Professionally employed,30-39,Very Often,4,4,4,4,3,4,4,2,3,2,4,4,4,2,2,4,2,1,4,3,5,5,3,2,2,3
+Customer 318,Female,Under Graduate,Student,19-29,Normally,3,3,3,4,3,4,3,4,4,4,4,4,4,3,3,2,3,3,3,4,4,4,4,4,4,3
+Customer 319,Female,Under Graduate,Student,19-29,Normally,4,4,4,4,3,3,2,3,3,3,3,3,4,4,3,2,4,1,4,3,4,4,5,5,5,2
+Customer 320,Male,Under Graduate,Student,19-29,Normally,4,4,2,5,4,5,5,3,5,5,5,4,5,5,5,5,1,1,3,3,5,2,2,4,2,1
+Customer 321,Male,Under Graduate,Business,50 and above,Regularly,4,2,3,2,4,1,5,2,3,5,4,3,4,3,3,1,4,1,4,3,4,3,2,4,4,2
+Customer 322,Female,Under Graduate,Student,19-29,Extremely rare,3,4,4,3,4,3,3,4,2,3,4,4,2,4,2,3,5,5,5,4,5,4,3,5,2,2
+Customer 323,Female,Under Graduate,Student,19-29,Very Often,3,2,3,4,2,1,2,2,4,2,4,3,4,2,2,1,2,2,3,3,4,5,4,3,4,3
+Customer 324,Male,Under Graduate,Student,19-29,Rarely,3,1,5,4,3,5,1,1,2,4,3,4,4,5,3,2,4,2,2,3,4,4,4,4,4,3
+Customer 325,Female,Under Graduate,Student,19-29,Normally,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,2,3
+Customer 326,Female,Under Graduate,Student,19-29,Normally,3,2,3,4,3,4,4,4,4,3,4,4,4,3,2,2,2,1,4,4,3,4,4,4,3,2
+Customer 327,Female,Post Graduate,Business,40- 49,Normally,3,3,4,4,4,4,3,4,4,3,4,3,4,2,2,3,4,3,4,4,4,4,4,4,3,4
+Customer 328,Female,Under Graduate,Student,19-29,Regularly,4,2,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,2,4
+Customer 329,Male,High School,Student,19-29,Normally,4,2,4,3,4,3,3,3,2,2,3,4,4,3,4,2,4,2,5,4,5,5,5,5,4,2
+Customer 330,Female,High School,Student,Less than 18,Normally,4,3,4,4,2,4,2,3,2,3,5,4,4,4,3,2,3,2,5,5,5,2,4,4,2,1
+Customer 331,Female,PhD,Others,30-39,Normally,5,2,4,5,2,3,4,4,3,3,4,4,2,3,4,1,4,2,4,4,2,4,4,4,4,3
+Customer 332,Female,Under Graduate,Student,19-29,Very Often,5,3,4,5,5,1,3,4,5,5,5,3,4,3,4,1,4,2,5,3,4,4,4,3,2,4
+Customer 333,Female,Under Graduate,Student,19-29,Rarely,4,2,4,4,3,2,3,4,4,3,4,4,3,4,3,3,3,2,4,4,2,4,4,4,3,3
+Customer 334,Female,Post Graduate,Others,40- 49,Rarely,3,4,4,5,5,4,4,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4
+Customer 335,Female,Under Graduate,Student,19-29,Normally,5,4,4,5,4,5,5,4,3,4,4,4,4,3,3,4,4,2,3,3,4,4,4,4,4,4
+Customer 336,Female,Under Graduate,Student,19-29,Regularly,5,2,5,4,2,4,3,4,3,4,4,3,4,2,3,1,3,2,4,3,2,3,4,3,4,3
+Customer 337,Female,Post Graduate,Others,19-29,Regularly,4,3,5,5,5,4,3,3,4,3,4,3,4,3,2,3,3,2,4,3,4,3,4,3,4,3
+Customer 338,Male,High School,Business,50 and above,Extremely rare,2,3,3,3,3,3,3,2,3,2,4,2,2,3,2,1,3,2,3,4,1,2,2,1,2,2
+Customer 339,Male,PhD,Professionally employed,50 and above,Regularly,5,3,5,5,2,2,4,5,5,2,4,4,4,2,2,2,4,1,4,2,5,3,4,5,3,3
+Customer 340,Male,PhD,Professionally employed,50 and above,Regularly,5,2,5,4,2,2,3,5,4,2,5,2,4,2,2,1,4,2,2,2,4,2,5,4,4,3
+Customer 341,Female,Under Graduate,Student,19-29,Very Often,5,1,1,1,1,5,1,1,5,5,3,3,3,3,5,1,5,3,3,3,1,1,3,3,4,2
+Customer 342,Female,Post Graduate,Professionally employed,19-29,Very Often,5,1,1,1,1,3,5,2,4,2,3,1,1,1,2,3,5,5,5,1,3,5,1,1,4,4
+Customer 343,Male,Under Graduate,Student,19-29,Very Often,4,4,4,4,5,4,2,1,3,3,3,3,3,3,3,3,5,5,5,1,1,1,5,5,5,2
+Customer 344,Male,Under Graduate,Student,19-29,Very Often,5,3,1,1,5,2,4,2,4,2,1,5,5,4,2,2,4,4,4,2,2,4,1,1,5,4
+Customer 345,Male,Under Graduate,Student,19-29,Very Often,2,3,1,4,2,5,2,2,4,4,5,1,1,2,2,2,4,4,5,1,2,1,2,3,3,3
+Customer 346,Female,Post Graduate,Student,19-29,Normally,3,1,4,5,4,2,2,2,4,2,5,4,5,5,2,3,3,1,5,4,5,5,5,5,5,3
+Customer 347,Female,Under Graduate,Student,19-29,Rarely,3,2,2,4,5,4,3,4,3,4,3,2,4,4,3,1,4,2,4,4,3,2,2,2,2,3
+Customer 348,Male,Under Graduate,Student,19-29,Rarely,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 349,Male,Under Graduate,Student,19-29,Normally,4,1,5,4,4,4,4,4,4,3,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 350,Male,Under Graduate,Student,19-29,Normally,4,1,5,4,4,4,4,4,4,3,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 351,Female,PhD,Student,19-29,Normally,5,2,3,4,3,4,4,4,1,1,4,5,5,4,4,5,4,1,1,2,2,2,3,3,3,4
+Customer 352,Female,Under Graduate,Student,19-29,Rarely,4,5,2,5,5,4,4,3,4,3,4,4,4,3,4,2,3,2,4,3,4,4,2,1,1,4
+Customer 353,Female,Option 5,Professionally employed,19-29,Very Often,5,3,1,4,3,5,3,3,3,5,4,5,5,5,5,4,3,3,5,3,5,5,3,4,4,4
+Customer 354,Female,Option 5,Professionally employed,19-29,Very Often,5,3,1,4,3,5,3,3,3,5,4,5,5,5,5,4,3,3,5,3,5,5,3,4,4,4
+Customer 355,Female,Under Graduate,Student,19-29,Rarely,3,4,4,3,5,2,2,3,4,2,4,3,4,3,2,3,3,3,4,3,4,4,4,4,4,3
+Customer 356,Female,Under Graduate,Student,19-29,Very Often,3,2,5,3,4,5,4,3,3,4,4,3,4,5,4,1,3,1,3,3,4,4,4,3,3,3
+Customer 357,Female,Under Graduate,Others,19-29,Normally,4,3,3,4,3,4,4,3,3,3,4,3,4,3,3,4,4,3,4,3,3,2,2,2,3,4
+Customer 358,Female,Under Graduate,Student,19-29,Normally,3,4,4,4,4,4,3,4,4,3,4,4,5,5,4,4,3,3,4,4,4,4,5,5,3,4
+Customer 359,Female,Option 5,Student,19-29,Regularly,3,3,3,3,3,3,3,3,3,3,3,3,4,3,2,3,4,4,5,4,4,4,4,3,3,3
+Customer 360,Male,Under Graduate,Business,30-39,Normally,5,1,5,3,5,1,3,1,1,5,5,5,5,3,5,1,1,1,5,5,5,5,5,5,5,1
+Customer 361,Female,Under Graduate,Student,19-29,Very Often,5,2,3,1,2,2,2,3,4,2,4,2,2,4,2,1,2,1,4,3,5,5,5,5,4,4
+Customer 362,Female,Option 5,Housewife,50 and above,Normally,5,3,5,5,4,4,2,3,2,2,4,4,4,3,4,2,4,2,4,4,3,4,4,4,4,5
+Customer 363,Male,Post Graduate,Professionally employed,50 and above,Normally,4,2,4,4,4,2,2,1,2,2,2,4,4,2,2,1,1,1,4,4,2,4,5,5,5,2
+Customer 364,Male,High School,Student,Less than 18,Regularly,5,3,5,5,4,4,4,3,5,4,5,4,5,4,4,3,4,3,5,5,5,5,5,4,4,3
+Customer 365,Female,Under Graduate,Student,19-29,Normally,3,2,3,4,2,3,4,4,4,3,4,3,4,3,3,1,4,1,5,3,4,4,4,5,4,3
+Customer 366,Female,Under Graduate,Student,19-29,Regularly,4,4,4,5,3,5,4,4,4,3,1,5,5,3,4,2,4,2,3,4,4,3,5,4,4,5
+Customer 367,Male,Under Graduate,Student,19-29,Normally,2,2,4,4,3,4,4,3,3,4,4,4,4,3,4,2,3,2,4,4,3,4,3,3,4,3
+Customer 368,Male,Under Graduate,Student,19-29,Normally,3,3,3,3,3,3,3,3,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,4
+Customer 369,Male,Under Graduate,Student,19-29,Normally,3,4,4,4,5,5,5,5,3,3,5,4,5,5,4,1,4,2,5,5,4,5,4,4,4,3
+Customer 370,Male,Under Graduate,Student,19-29,Regularly,4,4,1,1,4,4,4,4,3,3,4,3,4,4,4,3,3,3,4,3,4,4,4,4,3,3
+Customer 371,Male,Under Graduate,Professionally employed,19-29,Regularly,5,4,4,5,5,4,5,4,5,4,5,4,5,4,4,3,4,4,5,5,5,5,5,5,5,5
+Customer 372,Female,Post Graduate,Student,19-29,Normally,4,2,3,4,2,4,3,4,3,3,4,3,4,3,3,1,4,2,3,3,3,3,5,3,2,2
+Customer 373,Male,Under Graduate,Student,19-29,Very Often,5,1,1,1,4,5,1,4,4,3,4,4,4,3,4,1,4,3,4,4,4,4,3,3,3,4
+Customer 374,Male,Under Graduate,Student,19-29,Normally,5,2,5,5,5,5,2,2,5,2,5,3,5,1,3,1,3,1,4,4,2,4,4,4,4,4
+Customer 375,Female,Under Graduate,Student,19-29,Rarely,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,5,4
+Customer 376,Male,High School,Student,Less than 18,Normally,3,4,3,5,3,3,2,3,3,3,4,4,4,2,2,3,3,3,5,4,4,4,4,4,4,3
+Customer 377,Male,Post Graduate,Professionally employed,50 and above,Regularly,5,4,4,4,4,4,4,4,3,4,4,4,4,4,4,2,2,2,4,4,4,3,4,4,3,2
+Customer 378,Female,Under Graduate,Student,19-29,Regularly,3,4,4,4,3,4,3,3,2,2,4,4,5,3,3,1,3,3,4,3,4,2,5,3,4,4
+Customer 379,Male,High School,Others,30-39,Very Often,5,5,5,5,5,3,3,3,3,3,5,5,5,5,5,4,3,4,4,4,4,4,4,4,4,4
+Customer 380,Male,Post Graduate,Business,50 and above,Normally,3,2,4,4,4,3,3,3,3,4,4,4,3,4,3,2,3,2,3,4,3,5,3,4,5,2
+Customer 381,Male,Under Graduate,Student,19-29,Normally,4,3,4,4,4,3,3,4,4,3,4,4,5,2,2,2,4,1,4,4,5,5,1,3,2,3
+Customer 382,Male,Under Graduate,Business,30-39,Rarely,1,2,1,5,5,1,5,5,1,1,1,5,5,5,5,1,5,5,5,1,1,1,5,5,5,5
+Customer 383,Female,Under Graduate,Housewife,40- 49,Normally,4,3,4,4,3,3,3,3,4,2,4,4,5,3,4,2,3,2,5,5,4,4,4,3,4,2
+Customer 384,Male,Post Graduate,Professionally employed,50 and above,Normally,5,4,4,3,3,3,3,2,2,2,4,4,4,3,4,1,3,3,5,3,4,5,4,4,4,3
+Customer 385,Male,Under Graduate,Student,19-29,Normally,2,2,3,4,3,4,4,3,3,4,4,4,4,3,2,2,1,1,2,1,2,2,3,3,2,2
+Customer 386,Female,PhD,Others,40- 49,Normally,3,4,2,3,3,2,3,3,4,4,4,4,4,4,4,3,2,3,3,3,2,2,3,3,3,2
+Customer 387,Male,PhD,Business,50 and above,Normally,5,5,5,5,5,1,5,5,1,1,5,4,5,5,5,4,4,5,4,5,4,5,5,4,5,5
+Customer 388,Female,Under Graduate,Student,19-29,Regularly,5,1,5,3,5,5,4,4,4,4,4,4,4,4,4,3,2,2,2,2,4,4,4,4,4,4
+Customer 389,Female,PhD,Professionally employed,30-39,Normally,4,2,4,5,3,4,4,4,4,2,4,4,5,2,4,2,3,2,5,4,5,5,5,4,4,3
+Customer 390,Female,Under Graduate,Student,19-29,Regularly,5,1,5,3,5,5,4,4,4,4,4,4,4,4,4,3,2,2,2,2,4,4,4,4,4,4
+Customer 391,Female,Option 5,Student,Less than 18,Rarely,2,2,3,3,5,3,1,3,3,3,3,3,3,2,1,1,3,1,3,3,1,3,3,2,1,3
+Customer 392,Male,Under Graduate,Student,19-29,Normally,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 393,Male,Option 5,Business,40- 49,Rarely,4,2,4,4,3,3,3,2,3,4,4,4,4,4,4,1,1,1,2,2,2,2,2,2,2,2
+Customer 394,Male,Under Graduate,Student,19-29,Very Often,4,1,5,5,4,5,4,4,3,4,4,3,4,4,4,2,3,2,4,3,4,3,3,3,3,2
+Customer 395,Male,High School,Business,50 and above,Normally,3,2,4,4,4,3,3,4,3,3,3,4,3,4,4,1,3,1,2,2,3,3,2,2,2,2
+Customer 396,Male,Under Graduate,Student,19-29,Normally,3,3,2,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Customer 397,Male,Post Graduate,Student,19-29,Regularly,4,3,4,5,4,5,5,5,4,3,3,3,4,3,3,2,3,2,2,2,2,2,3,3,4,3
+Customer 398,Male,Option 5,Professionally employed,19-29,Rarely,5,3,3,4,3,3,4,4,4,4,4,4,4,5,5,2,4,2,1,1,1,1,1,1,3,1
+Customer 399,Male,Under Graduate,Student,19-29,Regularly,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,1,1,3,2,2,2,1
+Customer 400,Female,Post Graduate,Professionally employed,40- 49,Regularly,5,5,5,3,4,2,3,4,4,2,4,4,4,4,4,2,3,2,4,4,4,4,4,4,2,2
+Customer 401,Male,High School,Student,Less than 18,Normally,5,5,5,5,5,5,4,4,4,4,5,3,4,4,4,4,4,2,4,3,4,4,3,4,2,4
+Customer 402,Female,Under Graduate,Housewife,40- 49,Regularly,4,1,4,4,5,4,3,3,1,1,4,4,5,3,3,3,3,3,4,4,4,4,4,4,4,3
+Customer 403,Male,Under Graduate,Student,19-29,Regularly,4,1,4,4,5,4,3,3,1,1,4,4,5,3,3,3,3,3,4,4,4,4,4,4,4,3
+Customer 404,Male,Under Graduate,Student,19-29,Normally,5,2,4,5,4,5,4,3,5,4,5,4,5,3,3,1,3,2,3,3,4,4,5,5,5,4
+Customer 405,Female,Under Graduate,Housewife,40- 49,Rarely,2,3,3,3,3,3,3,4,3,3,3,4,3,3,4,3,3,3,4,4,4,3,2,2,2,2
+Customer 406,Male,High School,Student,Less than 18,Regularly,2,2,3,4,2,4,4,4,4,3,3,5,4,3,3,1,2,2,2,2,2,2,2,2,3,5
+Customer 407,Female,Under Graduate,Student,19-29,Very Often,5,1,3,1,1,5,1,3,3,4,4,1,3,3,2,3,3,3,1,5,2,3,3,3,3,3
+Customer 408,Female,Under Graduate,Housewife,40- 49,Rarely,2,3,3,3,3,3,3,4,3,3,3,4,3,3,4,3,3,3,4,4,4,3,2,2,2,2
+Customer 409,Male,Under Graduate,Student,19-29,Very Often,5,3,4,2,2,1,2,1,2,2,3,4,4,2,4,2,2,2,3,3,3,4,5,4,4,4
+Customer 410,Female,Post Graduate,Professionally employed,40- 49,Regularly,5,5,5,3,4,2,3,4,4,2,4,4,4,4,4,2,3,2,4,4,4,4,4,4,2,2
+Customer 411,Female,Under Graduate,Student,19-29,Regularly,5,4,4,5,4,4,4,3,4,2,4,4,5,3,4,4,4,2,4,4,4,4,5,4,4,5
+Customer 412,Male,Post Graduate,Business,40- 49,Normally,5,2,4,5,4,4,2,4,4,2,5,4,4,4,4,1,2,1,4,4,4,4,4,4,4,2
+Customer 413,Male,Under Graduate,Student,19-29,Normally,3,2,4,4,3,4,4,4,4,4,5,5,5,4,4,3,4,3,4,3,4,4,3,3,3,3
+Customer 414,Male,Post Graduate,Professionally employed,40- 49,Rarely,1,1,2,4,2,2,2,5,4,2,3,5,5,3,2,2,2,2,3,3,3,3,2,3,3,3
+Customer 415,Male,Under Graduate,Professionally employed,50 and above,Extremely rare,1,1,2,3,2,2,2,3,3,2,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,1
+Customer 416,Female,Under Graduate,Student,19-29,Normally,4,3,5,4,4,5,4,2,3,4,4,4,5,5,4,2,4,2,4,4,2,4,2,2,2,4
+Customer 417,Male,Under Graduate,Student,19-29,Very Often,5,1,1,1,3,5,5,3,4,4,4,3,4,4,2,2,3,2,2,3,2,3,2,2,2,3
+Customer 418,Male,Option 5,Student,19-29,Regularly,4,1,3,5,3,5,4,3,3,3,3,3,4,4,4,1,4,2,1,1,1,1,1,3,1,3
+Customer 419,Male,Under Graduate,Student,19-29,Regularly,5,3,4,3,3,5,4,3,4,4,3,3,5,4,2,1,3,1,5,5,2,2,4,3,4,2
+Customer 420,Male,Post Graduate,Professionally employed,30-39,Normally,4,3,4,5,4,4,4,4,4,4,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,5
+Customer 421,Female,Under Graduate,Housewife,30-39,Normally,3,3,4,4,4,4,4,4,4,4,4,5,5,5,5,5,4,4,4,4,4,4,4,4,4,5
+Customer 422,Male,High School,Student,19-29,Normally,4,4,4,5,4,4,4,4,4,4,4,4,5,4,5,3,3,4,4,4,3,3,3,4,4,5
+Customer 423,Female,Under Graduate,Housewife,30-39,Normally,4,4,4,5,4,5,4,4,3,4,4,4,4,4,4,3,3,4,5,4,4,4,4,4,4,5
+Customer 424,Male,High School,Student,19-29,Normally,4,4,4,4,4,4,4,3,3,4,4,5,5,3,5,3,4,2,4,4,4,4,4,4,4,4
+Customer 425,Male,Under Graduate,Student,19-29,Normally,5,3,4,5,4,4,4,5,5,4,5,4,5,2,2,2,3,1,5,5,4,4,2,4,4,4
+Customer 426,Male,Under Graduate,Student,19-29,Regularly,5,2,5,5,4,2,5,3,4,4,5,5,5,4,4,2,5,2,5,5,5,5,4,5,4,2
+Customer 427,Male,High School,Student,Less than 18,Regularly,5,5,5,5,5,5,4,5,5,4,5,5,5,5,4,5,4,5,4,5,5,3,4,4,3,4
+Customer 428,Male,Post Graduate,Business,40- 49,Normally,5,1,5,4,5,5,3,5,5,4,5,5,5,4,4,3,5,5,5,4,4,5,4,5,3,2
+Customer 429,Male,Under Graduate,Student,19-29,Rarely,4,3,4,5,4,2,3,3,4,2,5,4,5,3,4,1,4,2,4,3,4,3,4,4,4,3
+Customer 430,Male,Under Graduate,Student,19-29,Extremely rare,4,2,4,4,3,3,3,3,4,4,4,4,4,4,3,2,2,1,2,3,2,4,4,4,3,2
+Customer 431,Male,Under Graduate,Professionally employed,30-39,Very Often,5,4,5,5,3,5,5,5,4,5,5,4,5,3,5,1,5,2,5,4,4,3,4,3,4,5
+Customer 432,Male,Under Graduate,Student,19-29,Normally,4,3,4,5,4,3,3,4,4,4,4,5,4,4,4,3,3,4,4,4,4,4,4,4,4,4
+Customer 433,Female,High School,Housewife,40- 49,Extremely rare,4,4,5,4,4,4,5,4,5,4,4,5,5,3,5,1,4,2,4,4,4,3,1,4,3,4
+Customer 434,Female,Under Graduate,Student,19-29,Regularly,4,3,5,3,4,5,3,3,4,5,5,5,4,3,4,2,2,2,3,3,5,3,5,3,5,3
+Customer 435,Male,Under Graduate,Professionally employed,30-39,Very Often,5,2,5,5,4,5,4,4,4,3,4,4,4,4,4,1,4,2,4,4,4,4,4,4,4,2
+Customer 436,Male,High School,Professionally employed,50 and above,Extremely rare,5,4,4,4,5,4,4,5,5,4,5,4,5,4,4,3,4,2,4,5,4,4,3,4,1,4
+Customer 437,Male,Under Graduate,Student,19-29,Very Often,5,1,1,1,1,5,1,1,5,5,5,1,1,1,1,5,1,1,1,5,5,5,5,1,1,1
+Customer 438,Male,Under Graduate,Student,19-29,Normally,3,1,4,5,2,3,4,3,4,4,5,1,2,3,4,1,5,5,4,1,2,4,2,3,2,5
+Customer 439,Female,Post Graduate,Professionally employed,40- 49,Very Often,5,2,4,1,2,4,4,4,5,5,5,4,1,1,1,3,3,3,4,3,4,4,4,1,4,3
+Customer 440,Male,High School,Student,Less than 18,Normally,4,4,4,5,5,5,5,5,5,5,5,1,5,5,3,4,2,3,5,4,2,4,2,3,3,1
+Customer 441,Female,Option 5,Professionally employed,19-29,Rarely,4,4,4,4,1,4,4,4,4,4,4,3,4,2,2,2,4,2,4,4,3,3,3,3,3,3
+Customer 442,Female,Post Graduate,Student,19-29,Very Often,3,2,4,5,4,5,4,3,4,3,5,5,4,4,4,5,3,2,3,3,2,2,2,2,2,5
+Customer 443,Female,Under Graduate,Student,19-29,Very Often,5,1,1,1,1,5,1,1,5,5,5,1,1,1,1,5,1,1,1,5,5,5,1,1,1,1
+Customer 444,Female,Post Graduate,Housewife,19-29,Normally,4,2,3,4,3,5,4,4,2,4,4,5,4,4,3,3,4,4,1,2,2,2,3,1,2,5
+Customer 445,Female,Under Graduate,Student,19-29,Normally,3,3,4,4,3,4,4,4,3,4,3,4,5,4,3,4,4,3,4,4,3,3,2,4,4,4
+Customer 446,Female,Post Graduate,Student,19-29,Very Often,3,2,4,5,4,5,4,3,4,3,5,5,4,4,4,5,3,2,3,3,2,2,2,2,2,5
+Customer 447,Female,Under Graduate,Student,19-29,Normally,5,3,4,4,4,4,4,4,4,3,3,4,4,4,4,3,4,2,4,3,3,4,4,4,4,4
+Customer 448,Female,Post Graduate,Professionally employed,40- 49,Regularly,5,5,5,3,4,2,3,4,4,2,4,4,4,4,4,2,3,2,4,4,4,4,4,4,2,2
+Customer 449,Female,Under Graduate,Student,19-29,Normally,5,1,1,3,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,4,3,5
+Customer 450,Male,Under Graduate,Business,19-29,Extremely rare,4,4,4,4,3,3,4,4,3,3,3,2,4,3,2,3,1,2,3,3,3,3,3,1,1,3
+Customer 451,Male,Under Graduate,Professionally employed,19-29,Regularly,4,2,5,5,5,5,4,4,5,4,5,4,5,4,4,3,4,3,4,4,4,4,3,4,4,3
+Customer 452,Female,Post Graduate,Others,50 and above,Normally,4,5,5,5,5,1,5,3,3,3,5,2,4,4,4,4,5,1,3,3,3,3,4,4,4,3
+Customer 453,Male,Post Graduate,Student,19-29,Very Often,5,3,5,4,4,5,5,5,4,5,4,5,4,3,3,4,4,3,3,3,3,3,2,2,2,2
+Customer 454,Male,Option 5,Student,Less than 18,Very Often,5,5,5,5,4,5,4,5,5,4,5,5,5,5,5,4,4,3,4,4,5,4,4,4,4,5
